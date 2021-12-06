@@ -11,6 +11,9 @@ sections:
         text: And this is another line!
         lineBreak: false
         type: TypistTextElement
+      - delayBefore: 0
+        count: 1
+        type: TypistBackspaceElement
     type: TypistSection
   - type: HeroSection
     elementId: homepage-hero-1
