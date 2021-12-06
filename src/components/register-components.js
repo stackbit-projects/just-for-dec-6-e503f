@@ -6,7 +6,7 @@ import typistComponents from 'stackbit-typist'; // Get component map from packag
 registerComponents({
     // Register all Stackbit components
     ...componentsMap,
-    typistComponents
+    ...typistComponents
 
     // Override any static or dynamic component,
     // or register your own dynamic component.
