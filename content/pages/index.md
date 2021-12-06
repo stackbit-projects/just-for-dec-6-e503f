@@ -11,7 +11,7 @@ sections:
         text: And this is another line!
         lineBreak: false
         type: TypistTextElement
-      - delayBefore: 300
+      - delayBefore: 700
         count: 1
         type: TypistBackspaceElement
     type: TypistSection
