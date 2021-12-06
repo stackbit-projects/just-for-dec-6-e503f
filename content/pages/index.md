@@ -5,7 +5,7 @@ sections:
   - elements:
       - delayBefore: 0
         text: 'This is a text. '
-        lineBreak: false
+        lineBreak: true
         type: TypistTextElement
     type: TypistSection
   - type: HeroSection
