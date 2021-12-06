@@ -7,7 +7,7 @@ sections:
         text: 'This is a text. '
         lineBreak: true
         type: TypistTextElement
-      - delayBefore: 0
+      - delayBefore: 800
         text: And this is another line!
         lineBreak: false
         type: TypistTextElement
