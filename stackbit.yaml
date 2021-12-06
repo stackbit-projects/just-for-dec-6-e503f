@@ -26,4 +26,5 @@ contentModels:
 modelsSource:
   type: files
   modelDirs:
+    - node_modules/stackbit-typist/models
     - .stackbit/models
